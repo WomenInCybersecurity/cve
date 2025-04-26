@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cve.blog/about/</loc>
+  </url><url>
+    <loc>https://cve.blog/coming-soon/</loc>
+  </url><url>
+    <loc>https://cve.blog/posts/coming-soon/</loc>
+  </url><url>
+    <loc>https://cve.blog/privacy/</loc>
+  </url><url>
+    <loc>https://cve.blog/categories/</loc>
+  </url><url>
+    <loc>https://cve.blog/</loc>
+  </url><url>
+    <loc>https://cve.blog/posts/</loc>
+  </url><url>
+    <loc>https://cve.blog/search/</loc>
+  </url><url>
+    <loc>https://cve.blog/series/</loc>
+  </url><url>
+    <loc>https://cve.blog/tags/</loc>
+  </url>
+</urlset>

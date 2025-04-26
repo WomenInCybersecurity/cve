@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CVE</title>
+    <link>https://cve.blog/</link>
+    <description>Recent content on CVE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://cve.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://cve.blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cve.blog/about/</guid>
+      <description>&lt;h2 id=&#34;-about-me&#34;&gt;👋 About Me&lt;/h2&gt;
+&lt;p&gt;Hey there! I’m an Application Security Engineer focused on making sure the apps we all use are safe and secure 🛡️. I work closely with development teams to find and fix security issues—whether it’s through vulnerability assessments, penetration testing, or helping build security into the software development process from the start 🧑‍💻🔐.&lt;/p&gt;
+&lt;p&gt;I’ve done everything from digging into source code with tools like Snyk, Checkmarx, Veracode, and Fortify 🧩, to running hands-on web app penetration tests 🕵️‍♂️. I also focus a lot on integrating security into CI/CD pipelines ⚙️ and making sure teams have the tools and knowledge to build secure software every step of the way 🛠️.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cve.blog/coming-soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cve.blog/coming-soon/</guid>
+      <description>&lt;h1 id=&#34;-posts&#34;&gt;📝 Posts&lt;/h1&gt;
+&lt;p&gt;Content is brewing&amp;hellip; ☕&lt;br&gt;
+Stay tuned for write-ups on &lt;strong&gt;Pen Testing&lt;/strong&gt;, &lt;strong&gt;Threat Hunting&lt;/strong&gt;, and &lt;strong&gt;AI in Security&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-coming-soon&#34;&gt;🚧 Coming Soon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🔍 Deep dives into real-world penetration testing scenarios&lt;/li&gt;
+&lt;li&gt;🕵️ Threat hunting techniques and case studies&lt;/li&gt;
+&lt;li&gt;🤖 AI + cybersecurity experiments and insights&lt;/li&gt;
+&lt;li&gt;🧩 Creative exploits and unexpected tech twists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;📅 First posts dropping soon — get ready to follow the trail through the shadows of cyberspace! 🌒&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cve.blog/posts/coming-soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cve.blog/posts/coming-soon/</guid>
+      <description>&lt;h1 id=&#34;-posts&#34;&gt;📝 Posts&lt;/h1&gt;
+&lt;p&gt;Cooking up some content&amp;hellip; 🍳&lt;br&gt;
+Stay tuned for write-ups on &lt;strong&gt;CVE Analysis&lt;/strong&gt;, &lt;strong&gt;Pen Testing Tools&lt;/strong&gt;, and more 🔍🛠️.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;📅 First posts dropping soon — gear up to follow the signal through the noise of cyberspace! 🌐✨&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cve.blog/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cve.blog/privacy/</guid>
+      <description>&lt;p&gt;We collect usage data using Google Analytics for the purposes of visualizing the traffic on this website.&lt;/p&gt;
+&lt;p&gt;All data is anonymized and we do not sell or share any data with third parties.&lt;/p&gt;
+&lt;p&gt;If you choose to deny, no info will be collected whatsoever.&lt;/p&gt;</description>
+    </item>
+    
+    
+  </channel>
+</rss>
