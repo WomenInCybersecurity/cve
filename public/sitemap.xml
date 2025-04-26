@@ -12,8 +12,6 @@
   </url><url>
     <loc>https://cve.blog/categories/</loc>
   </url><url>
-    <loc>https://cve.blog/</loc>
-  </url><url>
     <loc>https://cve.blog/posts/</loc>
   </url><url>
     <loc>https://cve.blog/search/</loc>
@@ -21,5 +19,7 @@
     <loc>https://cve.blog/series/</loc>
   </url><url>
     <loc>https://cve.blog/tags/</loc>
+  </url><url>
+    <loc>https://cve.blog/</loc>
   </url>
 </urlset>
