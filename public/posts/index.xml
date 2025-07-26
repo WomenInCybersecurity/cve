@@ -19,5 +19,15 @@ Stay tuned for write-ups on &lt;strong&gt;CVE Analysis&lt;/strong&gt;, &lt;stron
 &lt;p&gt;📅 First posts dropping soon — gear up to follow the signal through the noise of cyberspace! 🌐✨&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://cve.blog/posts/ssdlcpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cve.blog/posts/ssdlcpost/</guid>
+      <description>&lt;h2 id=&#34;-getting-started-with-secure-software-development-life-cycle-ssdlc---a-simple-guide&#34;&gt;🛡️ Getting Started with Secure Software Development Life Cycle (SSDLC)  – A Simple Guide&lt;/h2&gt;
+&lt;p&gt;Have you ever built something only to realize at the very end that something really important was missing? That’s what happens when security is added at the last minute in software development. In today’s world, where data breaches and cyberattacks are on the rise, we can&amp;rsquo;t afford to treat security like an afterthought. That’s where &lt;strong&gt;Secure SDLC&lt;/strong&gt; comes in.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
